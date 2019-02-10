@@ -1,10 +1,10 @@
 # GEO 309 - Introduction to GIS and GIScience - Syllabus
 
-Credit Hours: 3
-Instructor: 
-Office Location: 
-Office Hours: 
-Email Address: 
+* Credit Hours: 3
+* Instructor: 
+* Office Location: 
+* Office Hours: 
+* Email Address: 
 
 ### Course Description
 
@@ -22,17 +22,17 @@ Upon successful completion of this course, you will be able to:
 
 ### Course Format
 
-Lecture Time & Place: 
-Required Materials: 
-Software: QGIS 3, ArcGIS Pro
+* Lecture Time & Place: 
+* Required Materials: 
+* Software: QGIS 3, ArcGIS Pro
 
 ### Course Content
 
 Lectures subject to change. Schedule is tentative!
-Homework assignments will be due ____.
 
-Final Project Proposal Due – 
-Final Project Due – 
+* Homework assignments Due ____
+* Final Project Proposal Due ____
+* Final Project Due ____
 
 ### Grading
 
@@ -62,7 +62,7 @@ C | 70-80%
 D | 60-70% 
 E | <60%
 
-### Prepare for this course
+## Prepare for this course
 
 Review the course syllabus carefully, paying special attention to due dates and assignment instructions. In addition to a final project, there are several homework assignments in this course and each one builds off the previous, so attendance and participation are crucial. If you have questions about course expectations as reviewed by this syllabus, please contact the instructor as soon as possible.
 
@@ -136,3 +136,25 @@ Students should at all times be respectful of fellow students, the instructor or
 
 If you have a documented disability that requires academic accommodations, please see me as soon as possible during scheduled office hours. In order to receive accommodations in this course, you must provide me with a Letter of Accommodation from the Disability Resource Center (725 Rose Street, Suite 407 Multidisciplinary Science Building, 8AM to 4:30PM, 859-257-2754, email address: jkarnes@email.uky.edu) for coordination of campus disability services available to students with disabilities.
 
+## Schedule
+
+Week | Dates | Tuesday |  | Thursday
+- | - | - | - | -
+- | - | *Readings* | *Lecture* | *Scenario*
+1 | mmm dd to mmm dd | - | - | Introduction
+2 | mmm dd to mmm dd | Crampton, J. 2010. What is critical cartography and GIS. In Crampton, J. (2010) Mapping: A critical introduction to cartography and GIS. Oxford: Blackwell. 39-48. | Introduction to GIS | Project Planning
+3 | mmm dd to mmm dd | Wood, D. and J. Krygier. 2009 Critical Cartography. In, International Encyclopaedia of Human Geography, pp. 340 – 344. Amsterdam, The Netherlands: Elsevier. | Data Types & Models | Project Planning
+4 | mmm dd to mmm dd | Edney, M. 2005. Putting “cartography" into the history of cartography: Arthur H. Robinson, David Woodward, and the creation of a discipline. Cartographic Perspectives, 51: 14-29. | Elements of Map Design | Creating Maps
+5 | mmm dd to mmm dd | Kelso, C. 1999. Ideology of mapping in apartheid South Africa, Kelso. South African Geographical Journal 81(1): 15-21. | Projections & CRS | Quiz 1
+6 | mmm dd to mmm dd | Dodds, K-J. 1993. Geopolitics, cartography and the state in South America. Geopolitics 12(4): 361-381. | Choropleth Mapping | Map Analysis
+7 | mmm dd to mmm dd | Agrawal, A. 2002. Indigenous knowledge and the politics of classification. International Social Science Journal 54: 287-97. | Attribute Analysis | Map Analysis
+8 | mmm dd to mmm dd | Rundstrom, R. 2009. Counter‐mapping. In, International Encyclopaedia of Human Geography, pp. 314-18. Amsterdam, The Netherlands: Elsevier. | Spatial Analysis - Vector | Map Review for Delivery
+9 | mmm dd to mmm dd | Fahy, F. and M. Ó Cinnéide. 2009. Re‐constructing the urban landscape through community mapping: an attractive prospect for sustainability? Area 41(2): 167-175. | Spatial Analysis - Raster | Map Publication
+10 | mmm dd to mmm dd | **Fall/Spring Break** | - | -
+11 | mmm dd to mmm dd | Elwood, S. 2006. Negotiating knowledge production: The everyday inclusions, exclusions, and contradictions of participatory GIS research. Professional Geographer 58(2): 197-208. | Geocoding | Publication Feedback
+12 | mmm dd to mmm dd | Shin, M.E. 2009. Democratizing electoral geography: Visualizing votes and political neogeography. Political Geography 28: 149-152. | Advanced Cartography | Map Reconfiguration
+13 | mmm dd to mmm dd | Crampton, J.W. 2009. Cartography: Performative, participatory, political. Progress in Human Geography 33(6): 840-848. | Web Cartography | Quiz 2
+14 | mmm dd to mmm dd | - | ESRI ArcGIS | Group Work - Final Project
+15 | mmm dd to mmm dd | - | ESRI ArcGIS | Group Work - Final Project
+16 | mmm dd to mmm dd | - | Final Project Review | Group Work - Final Project
+17 | mmm dd to mmm dd | - | Final Project Due | -
