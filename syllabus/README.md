@@ -45,7 +45,7 @@ Unless otherwise indicated by the instructor, all assignments, quizzes, and proj
 5. **Final Project** The semester will culminate in the submission and presentation of a final project. For the final project, you will be asked to complete a GIS project and to present the results to the class. I encourage you to begin to identify topics and appropriate data sets early. I am always open to meeting to discuss potential projects. Additional guidance will be provided via Canvas. Due Date: ______.
 
 Topic Area | Percent of Total Grade
-- | -
+-- | --
 Attendance | 10%
 Article Write-ups (3) | 15%
 Homework | 35%
@@ -55,7 +55,7 @@ Final Project & Proposal | 25%
 The instructor reserves the right to adjust grades based on a curve.
 
 Grade | Percent Range
-- | -
+-- | --
 A | 90-100%
 B | 80-90%
 C | 70-80%
@@ -139,8 +139,8 @@ If you have a documented disability that requires academic accommodations, pleas
 ## Schedule
 
 Week | Dates | Tuesday |  | Thursday
-- | - | - | - | -
-- | - | *Readings* | *Lecture* | *Scenario*
+-- | -- | -- | -- | --
+-- | -- | *Readings* | *Lecture* | *Scenario*
 1 | mmm dd to mmm dd | - | - | Introduction
 2 | mmm dd to mmm dd | Crampton, J. 2010. What is critical cartography and GIS. In Crampton, J. (2010) Mapping: A critical introduction to cartography and GIS. Oxford: Blackwell. 39-48. | Introduction to GIS | Project Planning
 3 | mmm dd to mmm dd | Wood, D. and J. Krygier. 2009 Critical Cartography. In, International Encyclopaedia of Human Geography, pp. 340 – 344. Amsterdam, The Netherlands: Elsevier. | Data Types & Models | Project Planning
