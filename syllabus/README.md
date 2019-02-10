@@ -158,3 +158,5 @@ Week | Dates | Tuesday |  | Thursday
 15 | mmm dd to mmm dd | - | ESRI ArcGIS | Group Work - Final Project
 16 | mmm dd to mmm dd | - | Final Project Review | Group Work - Final Project
 17 | mmm dd to mmm dd | - | Final Project Due | -
+
+**_Note:_** Parts of this content were adpated from @wilsonism :earth_americas: :+1:
