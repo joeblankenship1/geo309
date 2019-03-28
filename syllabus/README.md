@@ -149,10 +149,10 @@ Week | Dates | Tuesday |  | Thursday
 6 | mmm dd to mmm dd | Dodds, K-J. 1993. Geopolitics, cartography and the state in South America. Geopolitics 12(4): 361-381. | Choropleth Mapping | Map Analysis
 7 | mmm dd to mmm dd | Agrawal, A. 2002. Indigenous knowledge and the politics of classification. International Social Science Journal 54: 287-97. | Attribute Analysis | Map Analysis
 8 | mmm dd to mmm dd | Rundstrom, R. 2009. Counter‐mapping. In, International Encyclopaedia of Human Geography, pp. 314-18. Amsterdam, The Netherlands: Elsevier. | Spatial Analysis - Vector | Map Review for Delivery
-9 | mmm dd to mmm dd | Fahy, F. and M. Ó Cinnéide. 2009. Re‐constructing the urban landscape through community mapping: an attractive prospect for sustainability? Area 41(2): 167-175. | Spatial Analysis - Raster | Map Publication
+9 | mmm dd to mmm dd | Fahy, F. and M. Ó Cinnéide. 2009. Re‐constructing the urban landscape through community mapping: an attractive prospect for sustainability? Area 41(2): 167-175. | Spatial Analysis - Raster | Final Project: Proposal Workshop
 10 | mmm dd to mmm dd | **Fall/Spring Break** | - | -
-11 | mmm dd to mmm dd | Elwood, S. 2006. Negotiating knowledge production: The everyday inclusions, exclusions, and contradictions of participatory GIS research. Professional Geographer 58(2): 197-208. | Geocoding | Publication Feedback
-12 | mmm dd to mmm dd | Shin, M.E. 2009. Democratizing electoral geography: Visualizing votes and political neogeography. Political Geography 28: 149-152. | Advanced Cartography | Map Reconfiguration
+11 | mmm dd to mmm dd | Elwood, S. 2006. Negotiating knowledge production: The everyday inclusions, exclusions, and contradictions of participatory GIS research. Professional Geographer 58(2): 197-208. | Geocoding & Georeferencing | Finding/Creating Data
+12 | mmm dd to mmm dd | Shin, M.E. 2009. Democratizing electoral geography: Visualizing votes and political neogeography. Political Geography 28: 149-152. | Advanced GIS | Map Publication & Publication Feedback
 13 | mmm dd to mmm dd | Crampton, J.W. 2009. Cartography: Performative, participatory, political. Progress in Human Geography 33(6): 840-848. | Web Cartography | Quiz 2
 14 | mmm dd to mmm dd | - | ESRI ArcGIS | Group Work - Final Project
 15 | mmm dd to mmm dd | - | ESRI ArcGIS | Group Work - Final Project
