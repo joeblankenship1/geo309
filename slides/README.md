@@ -10,6 +10,9 @@
 * [Attribute Analysis](geo309_pres_06.md)
 * [Spatial Analysis - Vector](geo309_pres_07.md)
 * [Spatial Analysis - Raster](geo309_pres_08.md)
+* [Geocoding & Georeferencing](geo309_pres_09.md)
+* [Advanced GIS Topics](geo309_pres_10.md)
+* [Web Cartography](geo309_pres_11.md)
 
 These are slide I used to support weekly lectures.
 
