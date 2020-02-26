@@ -2,13 +2,13 @@
 
 ### Exercises
 
-* [Project Planning](geo309_exercise_01.md)
-* [Reconfiguring Maps](geo309_exercise_01.md)
-* [Conceptualizing Maps](geo309_exercise_02.md)
-* [Map Analysis](geo309_exercise_03.md)
-* [Map Review & Delivery](geo309_exercise_04.md)
-* [Finding & Creating Data](geo309_exercise_05.md)
-* [Map Publication](geo309_exercise_06.md)
+* [Project Planning](geo309_exercise_01.pdf)
+* [Project Planning - Exercise](geo309_exercise_01_exercise.pdf)
+* [Conceptualizing Maps](geo309_exercise_02.pdf)
+* [Map Analysis](geo309_exercise_03.pdf)
+* [Map Review & Delivery](geo309_exercise_04.pdf)
+* [Finding & Creating Data](geo309_exercise_05.pdf)
+* [Map Publication](geo309_exercise_06.pdf)
 
 This is the exercise material I used for in-class demonstrations and interactive exercises.
 
